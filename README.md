@@ -11,7 +11,7 @@ La documentació en llengua castellana en PDF es pot trobar en (https://github.c
   
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Caminador amb carretò |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](DOC_CAT/Caminador Amb Carretò_CAT.pdf) 
+Caminador amb carretò |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](DOC_CAT/CaminadorAmbCarretò_CAT.pdf) 
 Grill |![]() | [Grill](DOC_CAT/GrilStemfie_CAT.pdf) 
 
 
