@@ -5,13 +5,13 @@ Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 L'objectiu es augmentar el nombre de models STEMFIE. STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
-La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP) 
+La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Automats-Stemfie/tree/main/DOC_ESP) 
 
 ## Propostes 
   
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Caminador amb carretò |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](DOC_CAT/Caminador Amb Carretò_CAT.pdf) 
+Caminador amb carretò |![](Imatges/CaminadorCarretoStemfie.jpg) | [Caminador Amb Carretò](Automats-Stemfie/CaminadorCarreto/DOC_CAT/Caminador Amb Carretò_CAT.pdf) 
 Grill |![]() | [Grill](DOC_CAT/Gril_Stemfie_CAT.pdf) 
 
 
