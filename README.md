@@ -5,7 +5,7 @@ Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 L'objectiu es augmentar el nombre de models STEMFIE. STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
-La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Automats-Stemfie/tree/main/DOC_ESP) 
+La documentació en llengua castellana es pot trobar en [PDF](https://github.com/maynej/Automats-Stemfie/tree/main/DOC_ESP) 
 
 ## Propostes 
   
